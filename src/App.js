@@ -6,7 +6,7 @@ function App() {
   const [themeColor, setThemeColor] = useState('#0f5132');
 
   // Page 1: Receipt States
-  const [shopName, setShopName] = useState('Rohana Online Store');
+  const [shopName, setShopName] = useState('M Yaseen Online Store');
   const [customerName, setCustomerName] = useState('');
   const [customerPhone, setCustomerPhone] = useState('');
   const [paymentMethod, setPaymentMethod] = useState('EasyPaisa');
@@ -210,7 +210,7 @@ function App() {
             </button>
 
             <p style={styles.brandFooter}>
-              Powered by <strong>PakRaseed</strong> | Developed by <strong>Rohana</strong>
+              Powered by <strong>PakRaseed</strong> | Developed by <strong>M Yaseen</strong>
             </p>
           </div>
         </div>
@@ -261,7 +261,7 @@ function App() {
             </div>
 
             <p style={styles.brandFooter}>
-              Powered by <strong>PakRaseed</strong> | Developed by <strong>Rohana</strong>
+              Powered by <strong>PakRaseed</strong> | Developed by <strong>M Yaseen</strong>
             </p>
           </div>
         </div>
