@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #eef2f6;
+  color: #1e293b;
+  -webkit-font-smoothing: antialiased;
+}
+
+input, select {
+  transition: all 0.2s ease-in-out;
+  outline: none;
+}
+
+input:focus, select:focus {
+  border-color: #0f5132 !important;
+  box-shadow: 0 0 0 3px rgba(15, 81, 50, 0.15);
+}
+
+button {
+  transition: transform 0.15s ease, opacity 0.2s ease;
+}
+
+button:hover {
+  opacity: 0.92;
+  transform: translateY(-1px);
+}
+
+button:active {
+  transform: translateY(0);
+}
