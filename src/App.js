@@ -210,7 +210,7 @@ function App() {
             </button>
 
             <p style={styles.brandFooter}>
-              Powered by <strong>PakRaseed</strong> | Developed by <strong>M Yaseen</strong>
+              Powered by <strong>PakRaseed</strong> | Developed by <strong>M Yaseen</strong> <br/><br/> <a href="https://wa.me" target="_blank" rel="noreferrer" style={{display:"inline-block",backgroundColor:"#25D366",color:"#fff",padding:"8px 14px",borderRadius:"6px",textDecoration:"none",fontWeight:"bold",fontSize:"12px"}}>Order Your Own Website on WhatsApp</a>
             </p>
           </div>
         </div>
@@ -261,7 +261,7 @@ function App() {
             </div>
 
             <p style={styles.brandFooter}>
-              Powered by <strong>PakRaseed</strong> | Developed by <strong>M Yaseen</strong>
+              Powered by <strong>PakRaseed</strong> | Developed by <strong>M Yaseen</strong> <br/><br/> <a href="https://wa.me" target="_blank" rel="noreferrer" style={{display:"inline-block",backgroundColor:"#25D366",color:"#fff",padding:"8px 14px",borderRadius:"6px",textDecoration:"none",fontWeight:"bold",fontSize:"12px"}}>Order Your Own Website on WhatsApp</a>
             </p>
           </div>
         </div>
